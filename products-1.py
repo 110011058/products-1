@@ -47,5 +47,3 @@ def main():
 	write_file('products.csv', products)
 
 main()
-
-refactor
